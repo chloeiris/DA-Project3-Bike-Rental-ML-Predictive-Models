@@ -1,1 +1,1 @@
-# project-DA-promo-B-module-3-team-3
+Este fue nuestro proyecto final de Bootcamp y el más complejo de todos, tras hacer un EDA técnico y visual, realizar varios modelos predictivos y tras dar con el más ajustado predecir el número de bicicletas que se utilizarían bajo unas condiciones climáticas muy concretas en la ciudad de Washington y diferenciadas por estaciones de bicis.
